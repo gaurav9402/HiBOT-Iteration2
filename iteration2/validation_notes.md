@@ -1,1 +1,1 @@
-Admins can view logs of past chatbot queries for monitoring purposes. Built by Anthony.
+Validation steps for admin features included testing access control, verifying query logs, and reviewing formatting of new outputs. Validated by Gaurav.
