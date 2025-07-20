@@ -1,0 +1,8 @@
+Test Case 1: Ask "What is a healthy blood pressure?"
+Expected Output: Chatbot returns a trusted link or definition
+
+Test Case 2: Ask for "CBC test result"
+Expected Output: Chatbot retrieves CBC result from database
+
+Test Case 3: Search "diabetes symptoms"
+Expected Output: Summary of verified health sources
