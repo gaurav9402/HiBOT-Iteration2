@@ -1,0 +1,8 @@
+Test Case 4: Ask "Can I get a COVID booster now?"
+Expected Output: Chatbot returns verified health guidance
+
+Test Case 5: Admin views query history
+Expected Output: System displays past chatbot interactions
+
+Test Case 6: User tries accessing admin panel
+Expected Output: Access denied unless user has admin role
