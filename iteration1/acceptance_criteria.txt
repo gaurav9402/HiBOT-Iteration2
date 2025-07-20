@@ -1,0 +1,3 @@
+- Chatbot must return valid health responses.
+- Test results must be displayed and downloadable.
+- Health sources must be verified and compliant.
