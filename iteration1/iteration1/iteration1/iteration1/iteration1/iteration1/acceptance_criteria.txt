@@ -1,5 +1,0 @@
-- Chatbot must return a valid response for common health questions.
-- Test results must display clearly and allow PDF download.
-- Health topic searches must include source URLs.
-- All UI elements must be responsive and accessible.
-- System must pass all functional test cases.
