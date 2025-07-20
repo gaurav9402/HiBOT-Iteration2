@@ -1,0 +1,5 @@
+Test Case 1: Ask "What is a healthy blood pressure?"
+Expected: Chatbot returns definition or link
+
+Test Case 2: Ask for "CBC test result"
+Expected: Chatbot retrieves result from DB
